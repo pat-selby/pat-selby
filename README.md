@@ -21,7 +21,7 @@
 - 📜 Earn Google Cybersecurity Certificate
 - 🎯 Finish AWS Cloud Practitioner & ISC2 CC Certifications
 - 🧠 Build personal and group projects in cybersecurity/cloud
-- ✍🏽 Share content on YouTube + LinkedIn
+- ✍🏽 Share content on LinkedIn
 - 🤝 Land a competitive internship in Cyber/Cloud field
 
 ---
