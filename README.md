@@ -1,50 +1,32 @@
-# 👋 Hi, I'm Patrick Ennin Selby
-
-🎓 Cybersecurity & Cloud Computing student @ Grambling State University  
-🚀 Passionate about using tech to solve real-world problems  
-🌱 Currently learning Python, Cybersecurity Tools, Cloud (AWS), and Git  
-🛠️ Exploring hands-on labs, certifications, and mini-projects  
-📈 Aiming for an internship in Cybersecurity or Cloud Engineering by Summer 2026
-
+👋 Hi, I'm Patrick Ennin Selby
+### 🛡️ Cybersecurity Undergraduate | ☁️ Cloud Enthusiast | 🎓 GSU 2028
+I am a high-achieving **Cybersecurity** major with a **3.9 GPA** at **Grambling State University**. I am passionate about defending digital assets, analyzing risks, and building secure cloud infrastructure.
 ---
-
-## 🔧 Skills & Tools (Still Growing!)
-- 🐍 Python (OOP, DSA basics)
-- ☁️ AWS Academy Cloud Foundations
-- 🔐 Learning cybersecurity tools (Wireshark, Nmap, Metasploit, etc.)
-- 📂 Git & GitHub for version control
-- 📚 Taking CS50 courses in Cybersecurity & Cloud
-
+### 🚀 Technical Arsenal
+- **Security Operations:** Nmap, Wireshark, Incident Response, Log Analysis (JQ, CloudTrail)
+- **Cloud Infrastructure:** AWS (EC2, S3, IAM, CloudWatch)
+- **Dev & Scripting:** Python, Bash, Linux CLI, HTML/CSS/React
+- **Networking:** TCP/IP Fundamentals, Network Security, MQTT
 ---
-
-## 🎯 Goals for 2025
-- 📜 Earn Google Cybersecurity Certificate
-- 🎯 Finish AWS Cloud Practitioner & ISC2 CC Certifications
-- 🧠 Build personal and group projects in cybersecurity/cloud
-- ✍🏽 Share content on LinkedIn
-- 🤝 Land a competitive internship in Cybersecurity/Cloud field
-
+### 📜 Certifications
+- ☁️ **AWS Cloud Practitioner**
+- 🛡️ **Google Cybersecurity Professional**
+- 🕵️ **IBM Cybersecurity Analyst**
 ---
-
-## 🔗 Connect With Me
-- [LinkedIn](www.linkedin.com/in/patrick-ennin-selby-136253301)
-- [GitHub](https://github.com/pat-selby)
-
-> "Cybersecurity is not just about tech — it’s about people, systems, and purpose."
-
-
-
-<!--
-**pat-selby/pat-selby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Featured Projects
+- **[IoT Cyber Defense](https://portfolio-v2-gzkg.vercel.app/project):** Simulated critical infrastructure to mitigate IoT risks using TLS encryption and MQTT.
+- **[AWS Incident Response Lab](https://portfolio-v2-gzkg.vercel.app/project):** Investigated cloud security incidents via CloudTrail log correlation.
+---
+### 📊 GitHub Pulse
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=pat-selby&show_icons=true&theme=bg_dot&title_color=10b981&icon_color=10b981&text_color=ffffff&bg_color=0f172a&hide_border=true" height="150" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pat-selby&layout=compact&theme=bg_dot&title_color=10b981&text_color=ffffff&bg_color=0f172a&hide_border=true" height="150" alt="languages" />
+</p>
+---
+### 🤝 Connect With Me
+- 🌐 [Portfolio Website](https://portfolio-v2-gzkg.vercel.app/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/patrick-ennin-selby-136253301)
+- 🐦 [X (Twitter)](https://x.com/selby_patrick05)
+- 📧 [Email](mailto:pselby@gsumail.gram.edu)
+---
+*"In a world of evolving threats, I choose to be the variable that hackers never accounted for."*
