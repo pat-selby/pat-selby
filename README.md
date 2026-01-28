@@ -9,7 +9,7 @@ I am a high-achieving **Cybersecurity** major with a **3.9 GPA** at **Grambling 
 - **Networking:** TCP/IP Fundamentals, Network Security, MQTT
 ---
 ### 📜 Certifications
-- ☁️ **AWS Cloud Practitioner**
+- ☁️ **AWS Cloud Foundations**
 - 🛡️ **Google Cybersecurity Professional**
 - 🕵️ **IBM Cybersecurity Analyst**
 ---
