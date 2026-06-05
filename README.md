@@ -2,7 +2,7 @@
 
 ### 🔐 Research Assistant · AIoT Lab @ GSU | Cybersecurity & CIS · Class of 2028
 
-I build security tools and conduct applied research at Grambling State University's **AIoT Lab** under Dr. Vasanth Iyer. Currently developing **ScanSafe** — an on-device iOS application that detects QR phishing in real time using a classical OpenCV 4.13 computer vision pipeline and a 22-rule heuristic URL analysis engine, with zero cloud dependency and zero pretrained models.
+I build security tools and conduct applied research at Grambling State University's **AIoT Lab** under Dr. Vasanth Iyer. Currently developing **ScanSafe** — a cross-platform (iOS & Android) on-device application that detects QR phishing in real time using a classical OpenCV 4.13 computer vision pipeline and a 22-rule heuristic URL analysis engine, with zero cloud dependency and zero pretrained models.
 
 ---
 
@@ -30,7 +30,7 @@ I build security tools and conduct applied research at Grambling State Universit
 
                     ### 📁 Featured Projects
 
-                    - [ScanSafe](https://github.com/pat-selby/scan-safe) — On-device iOS QR phishing detector: 22-rule heuristic URL engine (Phase 1 structural + Phase 2 fuzzy matching), OpenCV 4.13 vision pipeline, zero cloud dependency, 85% commodity phishing detection rate
+                    - [ScanSafe](https://github.com/pat-selby/scan-safe) — Cross-platform (iOS & Android) QR phishing detector: 22-rule heuristic URL engine (Phase 1 structural + Phase 2 fuzzy matching), OpenCV 4.13 pipeline, 85% commodity phishing detection rate, zero cloud dependency
                     - - [Linux Incident Response Lab](https://github.com/pat-selby/cyber-labs) — auditd watch rules, ausearch trace analysis, chain-of-custody evidence documentation
                       - - [IT Risk Assessment Lab](https://github.com/pat-selby/cyber-labs) — Asset inventory, data classification tiers, likelihood-impact risk matrix
                        
