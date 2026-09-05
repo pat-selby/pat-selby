@@ -1,20 +1,20 @@
 👋 Hi, I'm Patrick Ennin Selby
 
-### 🔐 AI Fellow · AI4ALL Ignite | Cybersecurity & CIS @ GSU · Class of 2028
+### 🔐 Cybersecurity & CIS @ Grambling State University · Class of 2028
 
-I build security tools and study how to measure whether they actually work. At Grambling State University's **AIoT Lab**, under Dr. Vasanth Iyer, I built **ScanSafe** — a cross-platform (iOS & Android) on-device application that detects QR phishing in real time using a classical OpenCV 4.13 computer vision pipeline and a 22-rule heuristic URL analysis engine, with zero cloud dependency and zero pretrained models. The brief was open, just cybersecurity and OpenCV, so I chose the problem and designed every rule myself.
+I build security tools and study how to measure whether they actually work. At Grambling State University's **AIoT Lab**, under Dr. Vasanth Iyer, I built **ScanSafe** — an on-device Android application, with a Python prototype, that detects QR phishing in real time using a classical OpenCV 4.13 computer vision pipeline and a 22-rule heuristic URL analysis engine, with zero cloud dependency and zero pretrained models. The brief was open, just cybersecurity and OpenCV, so I chose the problem and designed every rule myself.
 
 ---
 
 ### 🚀 Technical Skills
 
 - **Security:** Linux CLI, Nmap, Wireshark, Threat Modeling (STRIDE), Log Analysis, Incident Response
-- **Dev & Scripting:** Swift 5, Kotlin, Python, SQL, Bash, Git / GitHub
+- **Dev & Scripting:** Python, Kotlin, Bash, SQL, Git / GitHub
 - **Data & AI:** Random Forest, supervised classification, model evaluation (precision / recall / F1)
-- **Mobile:** SwiftUI, OpenCV 4.13, AVFoundation, CoreMotion, cv2.QRCodeDetector
+- **Mobile & CV:** Android (Kotlin, CameraX), OpenCV 4.13, cv2.QRCodeDetector
 - **Web & API:** Flask, HTML / CSS
 - **Protocols:** TCP/IP, MQTT, TLS/mTLS, HMAC, Public/Private Key Cryptography
-- **Forensics & Monitoring:** auditd / ausearch, Splunk SIEM, Network Forensics, Log Correlation
+- **Forensics & Monitoring:** auditd / ausearch, Network Forensics, Log Correlation, MITRE ATT&CK
 - **Cloud:** AWS Cloud Foundations
 
 ---
@@ -30,15 +30,19 @@ I build security tools and study how to measure whether they actually work. At G
 
 ### 📁 Featured Projects
 
-- [ScanSafe](https://github.com/pat-selby/scan-safe) — Cross-platform (iOS & Android) QR phishing detector: 22-rule heuristic URL engine (Phase 1 structural + Phase 2 fuzzy matching), OpenCV 4.13 pipeline, 85% commodity phishing detection rate, zero cloud dependency
+- [ScanSafe](https://github.com/pat-selby/scan-safe) — On-device QR phishing detector (Kotlin Android + Python prototype): 22-rule heuristic URL engine, OpenCV 4.13 pipeline, 85% commodity and 30% sophisticated phishing detection at a ~8% false positive rate, zero cloud dependency
 - [Linux Incident Response Lab](https://github.com/pat-selby/pineridge-incident-response-lab) — auditd watch rules, ausearch trace analysis, chain-of-custody evidence documentation
 - [IT Risk Assessment Lab](https://github.com/pat-selby/bayoucare-risk-classification-lab) — Asset inventory, data classification tiers, likelihood-impact risk matrix
 
 ---
 
+- [SafeCampus](https://github.com/pat-selby/safecampus-network-security-lab) — Ubuntu hardening lab: UFW baseline, netstat/iftop monitoring, OpenVAS and Nmap scanning, paired with an attack simulator so the defenses can be measured
+- [CloudCampus](https://github.com/pat-selby/cloudcampus-serverless-document-pipeline) — Serverless OCR pipeline on AWS: S3 upload triggers Lambda, cutting a 3-hour manual intake to under 30 minutes on a least-privilege IAM role
+
 ### 💼 Experience
 
-- AI Fellow · AI4ALL Ignite (Jun 2026 – Present)
+- Research Assistant, LLM & Retrieval Systems · GSU, NSF-funded LLM security research (Aug 2026 – Present)
+- AI/ML Fellow · AI4ALL Ignite (Jun – Aug 2026)
 - Research Assistant · GSU AIoT Lab (Mar – May 2026)
 - CodePath Intermediate Cybersecurity Fellow (Feb – May 2026)
 - IoT Cyber Defense Extern · Hydroficient via Extern (Feb – Mar 2026)
