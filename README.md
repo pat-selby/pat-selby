@@ -31,13 +31,12 @@ I build security tools and study how to measure whether they actually work. At G
 ### 📁 Featured Projects
 
 - [ScanSafe](https://github.com/pat-selby/scan-safe) — On-device QR phishing detector (Kotlin Android + Python prototype): 22-rule heuristic URL engine, OpenCV 4.13 pipeline, 85% commodity and 30% sophisticated phishing detection at a ~8% false positive rate, zero cloud dependency
+- [SafeCampus](https://github.com/pat-selby/safecampus-network-security-lab) — Ubuntu hardening lab: UFW baseline, netstat/iftop monitoring, OpenVAS and Nmap scanning, paired with an attack simulator so the defenses can be measured
+- [CloudCampus](https://github.com/pat-selby/cloudcampus-serverless-document-pipeline) — Serverless OCR pipeline on AWS: S3 upload triggers Lambda, cutting a 3-hour manual intake to under 30 minutes on a least-privilege IAM role
 - [Linux Incident Response Lab](https://github.com/pat-selby/pineridge-incident-response-lab) — auditd watch rules, ausearch trace analysis, chain-of-custody evidence documentation
 - [IT Risk Assessment Lab](https://github.com/pat-selby/bayoucare-risk-classification-lab) — Asset inventory, data classification tiers, likelihood-impact risk matrix
 
 ---
-
-- [SafeCampus](https://github.com/pat-selby/safecampus-network-security-lab) — Ubuntu hardening lab: UFW baseline, netstat/iftop monitoring, OpenVAS and Nmap scanning, paired with an attack simulator so the defenses can be measured
-- [CloudCampus](https://github.com/pat-selby/cloudcampus-serverless-document-pipeline) — Serverless OCR pipeline on AWS: S3 upload triggers Lambda, cutting a 3-hour manual intake to under 30 minutes on a least-privilege IAM role
 
 ### 💼 Experience
 
