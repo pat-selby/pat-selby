@@ -40,7 +40,7 @@ I build security tools and study how to measure whether they actually work. At G
 
 ### 💼 Experience
 
-- Research Assistant, LLM & Retrieval Systems · GSU, NSF-funded LLM security research (Aug 2026 – Present)
+- Research Assistant, LLM & Retrieval Systems · Grambling State University (Aug 2026 – Present)
 - AI/ML Fellow · AI4ALL Ignite (Jun – Aug 2026)
 - Research Assistant · GSU AIoT Lab (Mar – May 2026)
 - CodePath Intermediate Cybersecurity Fellow (Feb – May 2026)
