@@ -50,7 +50,7 @@ I build security tools and study how to measure whether they actually work. At G
 
 ### 🔗 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Patrick%20Ennin%20Selby-blue)](https://www.linkedin.com/in/patrick-ennin-selby-136253301) [![GitHub](https://img.shields.io/badge/GitHub-pat--selby-black)](https://github.com/pat-selby) [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green)](https://patrickselby.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Patrick%20Ennin%20Selby-blue)](https://www.linkedin.com/in/patrick-ennin-selby-sec) [![GitHub](https://img.shields.io/badge/GitHub-pat--selby-black)](https://github.com/pat-selby) [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green)](https://patrickselby.vercel.app/)
 
 ---
 
