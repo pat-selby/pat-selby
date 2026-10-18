@@ -1,57 +1,44 @@
-👋 Hi, I'm Patrick Ennin Selby
+# Hi, I'm Patrick Ennin Selby 👋
 
-### 🔐 Cybersecurity & CIS @ Grambling State University · Class of 2028
+**Cybersecurity & CIS student · Research Assistant at the GSU AIoT Lab · Builder of practical security tools**
 
-I build security tools and study how to measure whether they actually work. At Grambling State University's **AIoT Lab**, under Dr. Vasanth Iyer, I built **ScanSafe** — an on-device Android application, with a Python prototype, that detects QR phishing in real time using a classical OpenCV 4.13 computer vision pipeline and a 22-rule heuristic URL analysis engine, with zero cloud dependency and zero pretrained models. The brief was open, just cybersecurity and OpenCV, so I chose the problem and designed every rule myself.
+I like turning security ideas into systems that can be tested, measured, and improved. My current work spans Android security, QR-phishing detection, incident response, network defense, serverless automation, and applied AI research.
 
----
+- 🔬 Researching LLM and retrieval systems at Grambling State University
+- 🛡️ Building **ScanSafe**, an on-device QR-phishing detector with no cloud dependency
+- 🧪 Designing labs that measure whether a defense actually works
+- 🎓 Studying Cybersecurity & CIS, Class of 2028
 
-### 🚀 Technical Skills
+## Featured work
 
-- **Security:** Linux CLI, Nmap, Wireshark, Threat Modeling (STRIDE), Log Analysis, Incident Response
-- **Dev & Scripting:** Python, Kotlin, Bash, SQL, Git / GitHub
-- **Data & AI:** Random Forest, supervised classification, model evaluation (precision / recall / F1)
-- **Mobile & CV:** Android (Kotlin, CameraX), OpenCV 4.13, cv2.QRCodeDetector
-- **Web & API:** Flask, HTML / CSS
-- **Protocols:** TCP/IP, MQTT, TLS/mTLS, HMAC, Public/Private Key Cryptography
-- **Forensics & Monitoring:** auditd / ausearch, Network Forensics, Log Correlation, MITRE ATT&CK
-- **Cloud:** AWS Cloud Foundations
+| Project | What it demonstrates |
+| --- | --- |
+| [ScanSafe](https://github.com/pat-selby/scan-safe) | On-device QR-phishing detection using classical computer vision and heuristic URL analysis |
+| [SafeCampus](https://github.com/pat-selby/safecampus-network-security-lab) | Ubuntu hardening, network monitoring, vulnerability scanning, and attack simulation |
+| [CloudCampus](https://github.com/pat-selby/cloudcampus-serverless-document-pipeline) | AWS serverless OCR with S3, Lambda, and least-privilege IAM |
+| [Pine Ridge IR Lab](https://github.com/pat-selby/pineridge-incident-response-lab) | Linux evidence preservation, audit analysis, incident documentation, and post-incident review |
+| [UniQR](https://github.com/pat-selby/uniqr) | Cross-platform screen QR capture for Windows, macOS, and Linux |
+| [IncidentLens](https://github.com/pat-selby/incidentlens-ai-apprentice) | A Hack-Nation 2026 prototype for capturing security judgment as apprentice practice |
 
----
+## Technical focus
 
-### 🏅 Certifications
+**Security:** Linux, Nmap, Wireshark, threat modeling, incident response, auditd, MITRE ATT&CK  
+**Development:** Python, Kotlin, C++, Bash, SQL, Git/GitHub, Flask  
+**Mobile & vision:** Android, CameraX, OpenCV, QR detection  
+**Cloud & data:** AWS, S3, Lambda, OCR pipelines, model evaluation, retrieval systems  
+**Networking:** TCP/IP, MQTT, TLS/mTLS, HMAC, public-key cryptography
 
-- ☁️ **AWS Academy Cloud Foundations**
-- 💻 **CodePath Intermediate Cybersecurity (CYB102)** — *Certificate of Achievement with Honors*
-- 🌐 **Google Cybersecurity** — *Foundations of Cybersecurity* · *Play It Safe*
-- 🤖 **IBM SkillsBuild** — *AI* · *Cybersecurity* · *Data* · *Digital World Skills*
+## Certifications & learning
 
----
+- AWS Academy Cloud Foundations
+- CodePath Intermediate Cybersecurity (CYB102) — Certificate of Achievement with Honors
+- Google Cybersecurity Certificate foundations
+- IBM SkillsBuild: AI, Cybersecurity, Data, and Digital World Skills
 
-### 📁 Featured Projects
+## Connect
 
-- [ScanSafe](https://github.com/pat-selby/scan-safe) — On-device QR phishing detector (Kotlin Android + Python prototype): 22-rule heuristic URL engine, OpenCV 4.13 pipeline, 85% commodity and 30% sophisticated phishing detection at a ~8% false positive rate, zero cloud dependency
-- [SafeCampus](https://github.com/pat-selby/safecampus-network-security-lab) — Ubuntu hardening lab: UFW baseline, netstat/iftop monitoring, OpenVAS and Nmap scanning, paired with an attack simulator so the defenses can be measured
-- [CloudCampus](https://github.com/pat-selby/cloudcampus-serverless-document-pipeline) — Serverless OCR pipeline on AWS: S3 upload triggers Lambda, cutting a 3-hour manual intake to under 30 minutes on a least-privilege IAM role
-- [Linux Incident Response Lab](https://github.com/pat-selby/pineridge-incident-response-lab) — auditd watch rules, ausearch trace analysis, chain-of-custody evidence documentation
-- [IT Risk Assessment Lab](https://github.com/pat-selby/bayoucare-risk-classification-lab) — Asset inventory, data classification tiers, likelihood-impact risk matrix
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Patrick%20Ennin%20Selby-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/patrick-ennin-selby-136253301)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://patrickselby.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-pat--selby-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pat-selby)
 
----
-
-### 💼 Experience
-
-- Research Assistant, LLM & Retrieval Systems · Grambling State University (Aug 2026 – Present)
-- AI/ML Fellow · AI4ALL Ignite (Jun – Aug 2026)
-- Research Assistant · GSU AIoT Lab (Mar – May 2026)
-- CodePath Intermediate Cybersecurity Fellow (Feb – May 2026)
-- IoT Cyber Defense Extern · Hydroficient via Extern (Feb – Mar 2026)
-
----
-
-### 🔗 Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Patrick%20Ennin%20Selby-blue)](https://www.linkedin.com/in/patrick-ennin-selby-sec) [![GitHub](https://img.shields.io/badge/GitHub-pat--selby-black)](https://github.com/pat-selby) [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green)](https://patrickselby.vercel.app/)
-
----
-
-> *"For we are God's handiwork, created in Christ Jesus to do good works." — Ephesians 2:10*
+> Building useful things, learning in public, and trying to leave every system safer than I found it.
